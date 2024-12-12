@@ -1,6 +1,16 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! Here, I showcase my projects and the skills I have developed it.
+
+## Technologies Used:
+- React.js
+- JavaScript
+- CSS
+- HTML
+- API Integration
+
+## Projects:
+1. **Weather App** - A weather app built using React and OpenWeather API.
 
 Currently, two official plugins are available:
 
