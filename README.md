@@ -1,6 +1,9 @@
 # My Portfolio
 
-Welcome to my portfolio! Here, I showcase my projects and the skills I have developed it.
+Welcome to my portfolio! Here, I showcase my project.
+
+## Project:
+**Weather App** - A weather app built using React and OpenWeather API.
 
 ## Technologies Used:
 - React.js
@@ -9,8 +12,7 @@ Welcome to my portfolio! Here, I showcase my projects and the skills I have deve
 - HTML
 - API Integration
 
-## Projects:
-1. **Weather App** - A weather app built using React and OpenWeather API.
+
 
 Currently, two official plugins are available:
 
